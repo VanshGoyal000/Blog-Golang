@@ -35,4 +35,5 @@ cd simple-go-blog
 # Install dependencies
 go mod download
 
+```
 <h1>Made With ❤️ Vansh Code Works</h1>
